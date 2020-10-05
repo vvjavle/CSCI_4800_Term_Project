@@ -30,22 +30,13 @@ html {
 }
 
 button {
-  background-color: #E0AB78; /* Green */
-  border-radius: 10px;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-}
-
-button:hover, button:onclick {
+  background-color: #E0AB78;
   border: none;
-  background-color: #E0AB78; /* Green */
   border-radius: 10px;
   color: white;
   padding: 10px 20px;
   text-align: center;
+  font-family: Raleway;
   display: inline-block;
   font-size: 16px;
 }
