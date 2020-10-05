@@ -28,6 +28,8 @@ iframe {
   width: 520px;
   height: 315px;
 	margin-left: 1.66%;
+  border-color: : #15224C;
+  border-radius: 15px;
 }
 
 h1 {
