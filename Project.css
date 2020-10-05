@@ -19,9 +19,15 @@ html {
 }
 
 img {
-	width: 50%;
+	width: 40%;
 	margin-left: 1.66%;
   border-radius: 5px;
+}
+
+iframe {
+  width: 520px;
+  height: 315px;
+	margin-left: 1.66%;
 }
 
 h1 {
