@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800');
+
+body {
+  background: #01001F;
+}
+
 .header {
    background: #15224C;
    text-align: center;
@@ -12,6 +18,11 @@
   color: 	#E0AB78;
   margin-left: 1.66%;
   text-decoration: underline;
+}
+
+a {
+  font-family: Raleway;
+  color: 	#898b8f;
 }
 
 html {
