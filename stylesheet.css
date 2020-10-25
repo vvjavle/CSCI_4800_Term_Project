@@ -1,0 +1,64 @@
+* {
+    margin: 0
+    padding: 0
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #5e60ce, #6930c3);
+    padding: 0 !important;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+    font-size: 30px !important;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #ffffff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.fa-bars {
+    color: #ffffff;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
+
+#banner {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: #ffffff;
+    padding-top: 5%;
+}
+
+.context {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.milestone-name {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 50px;
+}
