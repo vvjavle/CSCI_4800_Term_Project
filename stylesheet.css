@@ -79,3 +79,10 @@ body {
 .content {
     color: rgb(80, 77, 77);
 }
+
+iframe {
+    width: 520px;
+    height: 315px;
+    border: none;
+    border-radius: 15px;
+}
