@@ -86,3 +86,10 @@ iframe {
     border: none;
     border-radius: 15px;
 }
+
+.intro-image {
+    width: 520px;
+    height: 315px;
+    border: none;
+    border-radius: 15px;
+}
