@@ -93,3 +93,17 @@ iframe {
     border: none;
     border-radius: 15px;
 }
+
+.mockup-image {
+    width: 75%;
+    border: none;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+.high-fid-mockup-image {
+    width: 40%;
+    border: none;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
