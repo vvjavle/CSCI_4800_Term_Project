@@ -107,3 +107,9 @@ iframe {
     padding-bottom: 15px;
     border-radius: 15px;
 }
+
+.prototype-image {
+    width: 70%;
+    border: none;
+    padding-bottom: 15px;
+}
